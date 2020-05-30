@@ -164,7 +164,7 @@ a {
   right: auto;
   bottom: auto;
   display: block;
-  width: 80px;
+  width: auto;
   margin-top: 12px;
   margin-right: 0px;
   float: right;
