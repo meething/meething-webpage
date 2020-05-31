@@ -38,11 +38,11 @@ a {
   display: block;
   overflow: visible;
   margin-top: 15%;
-  margin-left: 10%;
+  margin-left: 5%;
   margin-right: 25%;
   border-radius: 5px;
   border: 8px solid #6e397b;
-transform: perspective(400px) rotateY(-25deg);	
+transform: perspective(500px) rotateY(-18deg);	
 		
 }
 
